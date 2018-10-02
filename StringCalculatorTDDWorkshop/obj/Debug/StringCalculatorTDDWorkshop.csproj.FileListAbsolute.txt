@@ -1,0 +1,7 @@
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\bin\Debug\StringCalculatorTDDWorkshop.exe.config
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\bin\Debug\StringCalculatorTDDWorkshop.exe
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\bin\Debug\StringCalculatorTDDWorkshop.pdb
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\obj\Debug\StringCalculatorTDDWorkshop.csprojResolveAssemblyReference.cache
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\obj\Debug\StringCalculatorTDDWorkshop.csproj.CoreCompileInputs.cache
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\obj\Debug\StringCalculatorTDDWorkshop.exe
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTDDWorkshop\obj\Debug\StringCalculatorTDDWorkshop.pdb

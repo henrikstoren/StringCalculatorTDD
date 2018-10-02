@@ -1,0 +1,2 @@
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.csprojResolveAssemblyReference.cache
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.csproj.CoreCompileInputs.cache
