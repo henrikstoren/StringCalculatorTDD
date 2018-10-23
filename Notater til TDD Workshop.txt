@@ -1,0 +1,136 @@
+TDD String Calculator
+
+Prøv å ikke lese forbi den oppgaven du holder på med.
+Skriv så lite kode du kan. Kun nok til å få en feilende test til å passere.
+Det er IKKE lov til å skrive ny kode/logikk uten at det er en test som feiler.
+	Dvs. Det er lov til å rydde opp i eksisterende kode, men ikke lov til å legge til ny funksjonalitet.
+
+	
+	
+
+	- Klassen StringCalculator skal ha en metode Add som tar inn en string som parameter
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn en tom tekststreng, skal den returnere tallet 0.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn strengen "1", skal den returnere tallet 1
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn strengen "2", skal den returnere tallet 2
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn strengen "3", skal den returnere tallet 3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn strengen "1,2", skal den returnere tallet 3
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn strengen "1,4", skal den returnere tallet 5
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn strengen "1,25,234", skal den returnere tallet 260
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Hvis Add får inn en streng med heltall separert med komma (','), skal den returnere summen av alle tallene.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Tall som er større enn 1000 skal ignoreres.
+		- Eks: "2,340,1005" skal returnere 342
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Legg til rette for å bruke en egendefinert separator. Formatet på strengen skal da være "//[separator]\n[tall]". 
+		- Eks 1: "//[§]\n3§9" skal returnere 12
+		- Eks 2: "//[hei]\n3hei7hei8" skal returnere 18
+		- Eks 3: "//[,,,]\n2,,,3,,,4" skal returnere 9
+		- OBS: Metoden skal fortsatt takle input som ikke starter med "//[separator]\n". Den skal da fortsatt bruke ',' som default separator.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	- Legg til rette for å bruke flere egendefinerte separatorer. Formatet på strengen skal da være "//[separator1][separator2]\n[tall]". 
+		- Eks: "//[%][*]\n3%9*5" skal returnere 17
