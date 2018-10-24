@@ -1,2 +1,17 @@
 D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.csprojResolveAssemblyReference.cache
 D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.csproj.CoreCompileInputs.cache
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\StringCalculatorTestProject.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\StringCalculatorTestProject.pdb
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\StringCalculatorTDDWorkshop.exe
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\StringCalculatorTDDWorkshop.pdb
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\StringCalculatorTDDWorkshop.exe.config
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.csproj.CopyComplete
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.dll
+D:\Users\hstoren\source\repos\StringCalculatorTDDWorkshop\StringCalculatorTestProject\obj\Debug\StringCalculatorTestProject.pdb
